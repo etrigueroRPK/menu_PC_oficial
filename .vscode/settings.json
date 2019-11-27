@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/home/edmundo/anaconda3/envs/navegador/bin/python",
+    "python.pythonPath": "/home/edmundo/anaconda3/envs/rpk_ad/bin/python",
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true
 }
