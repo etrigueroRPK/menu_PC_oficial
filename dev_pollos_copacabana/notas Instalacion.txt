@@ -1,0 +1,11 @@
+--incognito --kiosk
+
+
+para que desaparesca el mensaje en chrmium
+
+setx GOOGLE_API_KEY "no"
+setx GOOGLE_DEFAULT_CLIENT_ID "no"
+setx GOOGLE_DEFAULT_CLIENT_SECRET "no"
+
+//
+Generar un navegador desde pyqt5
