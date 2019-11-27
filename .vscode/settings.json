@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/edmundo/anaconda3/envs/navegador/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
