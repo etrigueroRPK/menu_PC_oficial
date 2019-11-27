@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/home/edmundo/anaconda3/envs/rpk_ad/bin/python",
+    "python.pythonPath": "C:\\Users\\Edmundo\\.conda\\envs\\menu_pollos\\python.exe",
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true
 }

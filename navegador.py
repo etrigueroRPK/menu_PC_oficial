@@ -17,9 +17,9 @@ class Widgets(QMainWindow):
         # Widget para el navegador
         self.webview = QWebEngineView()
         # self.webview.scroll()
-        self.webview.load(QUrl("https://www.google.com/"))
-        file_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "pollos_copacabana/index.html"))
-        
+        # self.webview.load(QUrl("https://www.google.com/"))
+        file_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "dev_pollos_copacabana/index.html"))
+        print(file_path)
         self.webview.load(QUrl.fromLocalFile(file_path))
 
 
